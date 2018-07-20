@@ -13,6 +13,6 @@ setup(
     install_requires=['viff>=2.0'],
     extras_require={'dev': dev_require},
     dependency_links=[
-        'git+https://github.com/sbellem/viff.git@setup#egg=2.0',
+        'git+https://github.com/sbellem/viff.git@setup#egg=viff-2.0',
     ],
 )
